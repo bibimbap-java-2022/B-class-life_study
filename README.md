@@ -4,7 +4,7 @@
 ### ✍️ Member
 **소일전**
 <a href="https://github.com/sevenxyt48"><img src="https://img.shields.io/github/followers/sevenxyt48?label=XIAO YITIAN&style=social"/></a>
-![Badge](https://img.shields.io/badge/email-sevenxyt48%40gmail.com-green)
+![Badge](https://img.shields.io/badge/email-sevenxyt48%40gmail.com-red)
 > 안녕하세요! 저는 컴퓨터공학과 22학번 소일전입니다!
 
 **안재민**
