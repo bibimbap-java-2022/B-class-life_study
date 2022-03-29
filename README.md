@@ -9,7 +9,7 @@
 
 **안재민**
 <a href="https://github.com/anjm1020"><img src="https://img.shields.io/github/followers/anjm1020?label=AnGit&style=social"/></a>
-![Badge](https://img.shields.io/badge/email-anjm1020%40gmail.com-green)
+![Badge](https://img.shields.io/badge/email-anjm1020%40gmail.com-red)
 > Hello World!
 
 **안재민**
