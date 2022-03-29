@@ -8,7 +8,7 @@
 > 안녕하세요! 저는 컴퓨터공학과 22학번 소일전입니다!
 
 **김세준**
-<a href="https://github.com/SettleKim"><img src="https://img.shields.io/github/followers/SettleKim?label=sSettleKim&style=social"/></a>
+<a href="https://github.com/SettleKim"><img src="https://img.shields.io/github/followers/SettleKim?label=SettleKim&style=social"/></a>
 ![Badge](https://img.shields.io/badge/email-ggsejun777@naver.com-blue)
 > 컴퓨터공학과 22학번 김세준입니다. 잘 부탁드립니다.
 
