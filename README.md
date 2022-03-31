@@ -12,6 +12,11 @@
 ![Badge](https://img.shields.io/badge/email-ggsejun777@naver.com-blue)
 > 컴퓨터공학과 22학번 김세준입니다. 잘 부탁드립니다.
 
+**정민수**
+<a href="https://github.com/MINNNNNNNNNNNNN"><img src="https://img.shields.io/github/followers/MINNNNNNNNNNNNN?label=JungMinsu&style=social"/></a>
+![Badge](https://img.shields.io/badge/email-wjdalstn02%40konkuk.ac.kr-lightgrey)
+> 컴공 22학번 정민수 부족하지만 열심히 하겠습니다!!
+
 **안재민**
 <a href="https://github.com/anjm1020"><img src="https://img.shields.io/github/followers/anjm1020?label=AnGit&style=social"/></a>
 ![Badge](https://img.shields.io/badge/email-anjm1020%40gmail.com-red)
