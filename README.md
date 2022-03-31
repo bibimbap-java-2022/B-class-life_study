@@ -25,5 +25,6 @@
 ### 📆 Calendar
 |Date |Participant|Topic|Place|
 |--|--|--|--|
+|2022-03-31|'JungMinsu'|깃허브 레포지토리 생성|Online|
 |2022-03-29|`XiaoYiTian`,`KimSeJun`,`JaeminGit`| 깃허브 레포지토리 생성|Online|
 |2022-03-28|`GitJaemin`,`HongGilDong`| 프로젝트 주제 정하기 |K-cube|
