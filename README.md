@@ -17,14 +17,9 @@
 ![Badge](https://img.shields.io/badge/email-wjdalstn02%40konkuk.ac.kr-lightgrey)
 > 컴공 22학번 정민수 부족하지만 열심히 하겠습니다!!
 
-**안재민**
-<a href="https://github.com/anjm1020"><img src="https://img.shields.io/github/followers/anjm1020?label=AnGit&style=social"/></a>
-![Badge](https://img.shields.io/badge/email-anjm1020%40gmail.com-red)
-> Hello World!
 
 ### 📆 Calendar
 |Date |Participant|Topic|Place|
 |--|--|--|--|
-|2022-03-31|'JungMinsu'|깃허브 레포지토리 생성|Online|
 |2022-03-29|`XiaoYiTian`,`KimSeJun`,`JaeminGit`| 깃허브 레포지토리 생성|Online|
-|2022-03-28|`GitJaemin`,`HongGilDong`| 프로젝트 주제 정하기 |K-cube|
+|2022-03-31|`JungMinsu`|깃허브 레포지토리 생성|Online|
